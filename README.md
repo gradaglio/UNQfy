@@ -1,6 +1,6 @@
 # UNQfy 
 
-[![codecov](https://codecov.io/gh/CamilaCintioli/UNQfy/branch/master/graph/badge.svg)](https://codecov.io/gh/CamilaCintioli/UNQfy)
+[![codecov](https://codecov.io/gh/CamilaCintioli/UNQfy/branch/master/graph/badge.svg?token=64365d29-06c6-4e71-a86d-f40d4ac17577)](https://codecov.io/gh/CamilaCintioli/UNQfy)
 
 
 Seminario web -- 2020c1  
